@@ -1,3 +1,3 @@
 # manuallycreated
 ----
-A repository to be deleted by Lively5. THIS IS NEW!
+A repository to be deleted by Lively4.1. THIS IS NEW!
